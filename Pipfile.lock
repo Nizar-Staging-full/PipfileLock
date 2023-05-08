@@ -135,7 +135,7 @@
                 "sha256:cdbacf52c61b4a3bc10fef1286a24a63ae95255a2e7b4e8ccb1e1f96737231ed"
             ],
             "index": "pypi",
-            "version": "==0.5.3"
+            "version": "==0.4.3"
         },
         "requests": {
             "extras": [
